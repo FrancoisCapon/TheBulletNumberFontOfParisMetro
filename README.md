@@ -27,7 +27,7 @@ So, it's very easy :
 ### The characters and the ligatures
 
 Each character or ligature correspond to it character in a the ascii table, so:
-- here is no need using utf-8 codes or table of special characters
+- there is no need using utf-8 codes or a table of special characters
 - "applications" can numbering items like they using a standard text font 
 
 #### The characters
